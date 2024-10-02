@@ -9,6 +9,7 @@ description: >
 
 
 # Build settings
+permalink: /:title
 
 # If you clone the Minima repo and build locally, use this setting.
 theme: minima
